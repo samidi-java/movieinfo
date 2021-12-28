@@ -14,7 +14,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.fis.model.Movie;
 import com.fis.service.MovieService;
-
+/*
+ * Movie Rest controller
+ */
 @RestController
 public class MovieController {
 
