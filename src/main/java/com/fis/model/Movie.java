@@ -3,6 +3,7 @@ package com.fis.model;
 import java.io.Serializable;
 /*
  * Movie entity
+ * 
  */
 
 import javax.persistence.Entity;
