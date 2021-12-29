@@ -4,6 +4,7 @@ import java.io.Serializable;
 /*
  * Movie entity
  * 
+ * Returns movie info
  * 
  */
 
