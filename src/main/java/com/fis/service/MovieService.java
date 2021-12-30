@@ -8,6 +8,9 @@ import org.springframework.stereotype.Service;
 import com.fis.model.Movie;
 import com.fis.repository.MovieRepository;
 
+/*
+ * Movie service class
+ */
 @Service
 public class MovieService {
 	@Autowired
