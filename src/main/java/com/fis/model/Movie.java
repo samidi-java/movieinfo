@@ -13,7 +13,9 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-
+/*
+ * Movie info entity class
+ */
 @Entity
 @Table(name="movie")
 @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
