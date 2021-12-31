@@ -18,7 +18,7 @@ import com.fis.service.MovieService;
  * Movie Rest controller
  * 
  */
-@RestController
+@RestControlle
 public class MovieController {
 
  @Autowired
